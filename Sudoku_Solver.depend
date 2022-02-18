@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1639339904 source:e:\programs\c\projects\sudoku_solver\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sudoku.h"
+
+1639339904 e:\programs\c\projects\sudoku_solver\sudoku.h
+
+1637669485 source:e:\programs\c\projects\sudoku_solver\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	"sudoku.h"
+
+1639339904 source:e:\programs\c\projects\sudoku_solver\box.c
+	<stdio.h>
+	<stdlib.h>
+	"sudoku.h"
+
+1639416917 source:e:\programs\c\projects\sudoku_solver\puzzle.c
+	<stdio.h>
+	<stdlib.h>
+	"sudoku.h"
+
+1639339904 source:e:\programs\c\projects\sudoku_solver\square.c
+	<stdio.h>
+	<stdlib.h>
+	"sudoku.h"
+
+1639345034 source:e:\programs\c\projects\sudoku_solver\row.c
+	<stdio.h>
+	<stdlib.h>
+	"sudoku.h"
+
